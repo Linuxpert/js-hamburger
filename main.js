@@ -7,11 +7,11 @@ hamburger.addEventListener('click',
     function() {
         hamMenu.classList.add("active");
     }
-)
+);
 
 //chiusura menu
 closeMenu.addEventListener('click',
     function() {
         hamMenu.classList.remove("active");
     }
-)
+);
